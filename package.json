@@ -1,16 +1,20 @@
 {
-  "name": "bitcoind-rpc",
-  "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC",
-  "version": "0.7.2",
+  "name": "b3coind-rpc",
+  "description": "Bitcoin Client Library with B3Coin to connect to Bitcoin Core via RPC",
+  "version": "1.0.3",
   "author": {
-    "name": "Stephen Pair",
-    "email": "stephen@bitpay.com"
+    "name": "AltFreq",
+    "email": "AltFreq07@gmail.com"
   },
   "contributors": [
     {
       "name": "Jeff Garzik",
       "email": "jgarzik@bitpay.com"
     },
+      {
+    "name": "Stephen Pair",
+    "email": "stephen@bitpay.com"
+  },
     {
       "name": "Manuel Araoz",
       "email": "manuelaraoz@gmail.com"
@@ -25,12 +29,12 @@
     }
   ],
   "keywords": [
-    "bitcoin",
+    "b3coin",
     "rpc"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcoind-rpc"
+    "url": "https://github.com/AltFreq07/b3coind-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -47,7 +51,7 @@
     "sinon": "^1.12.2"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/bitcoind-rpc/issues"
+    "url": "https://github.com/AltFreq07/b3coind-rpc/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcoind-rpc"
+  "homepage": "https://github.com/AltFreq07/b3coind-rpc"
 }
